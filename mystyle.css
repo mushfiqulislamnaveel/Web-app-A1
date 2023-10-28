@@ -6,7 +6,7 @@
     background-color: #c1ddc1;
     margin-right: 12px;
     padding: 2px;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 
 .col {
@@ -21,19 +21,19 @@
     margin-right: 10px;
 }
 
-.links a:visited{
+.links :visited{
     color: black;
 }
 
-.links a:link{
+.links :link{
     color: black;
 }
 
-.links a:visited{
+.links :visited{
     color: black;
 }
 
-.links a:hover{
+.links :hover{
     color: #FFFFFF;
 }
 
@@ -42,19 +42,19 @@
     margin-bottom: 5px;
 }
 
-.slides-a {
+.slides{
     background-color: #ff9b9b;
     margin-left: 65px;
 }
 
-.starter-code-a{
+.starter-code{
     background-color: #84cdee;
 }
 
-.checkoff-form-a{
+.checkoff-form{
     background-color: #df9152;
 }
 
-.solution-a{
+.solution{
     background-color: #90ee90;
 }
